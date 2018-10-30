@@ -12,7 +12,7 @@ Have fun & good luck!
 
 ### Terminal / Bash
 
-`/cron_sonos-reboot.sh 192.168.1.40 192.168.1.41`
+`./cron_sonos-reboot.sh 192.168.1.40 192.168.1.41`
 
 ```
 Reboot of 192.168.1.40 (CSRFToken: g8mlBFoxeBUTcABWF4LWgD3SsxwUF89l) successful.
