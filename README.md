@@ -4,8 +4,6 @@
 
 ![sonos-system_pressekit.jpg](sonos-system_pressekit.jpg?raw=true "sonos-system_pressekit.jpg")
 
-Bei diesem Skript handelt es sich um ein klassisches Linux Bash-Skript, welches ich verwende um jeden Montag, um 4:50, meine 2 Sonos Play:1 neuzustarten. Dieses Bash-Skript nutzt das "versteckte" Sonos-Webinterface auf Port 1400. :+1:
-
 This script is a classic Linux bash script, that i use to restart my two Sonos play:1 speakers at 4:50am every Monday. This bash script uses the "hidden" Sonos web interface on port 1400. :+1:
 
 Have fun & good luck!
