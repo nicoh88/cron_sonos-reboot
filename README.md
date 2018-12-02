@@ -8,6 +8,18 @@ This script is a classic Linux bash script, that i use to restart my two Sonos p
 
 Have fun & good luck!
 
+## Sonos 9.3 :-1
+
+Sonos removes with firmware 9.3 the reboot url on the "hidden" web interface. Sorry!
+:exclamation: The script does not work anymore. :-( [Thread @reddit](https://www.reddit.com/r/sonos/comments/a1x0f7/sonos_reboot_url_disabled/) 
+
+## Download
+
+```
+wget https://raw.githubusercontent.com/nicoh88/cron_sonos-reboot/master/cron_sonos-reboot.sh
+chmod 700 cron_sonos-reboot.sh
+```
+
 ## Usages
 
 ### Terminal / Bash
