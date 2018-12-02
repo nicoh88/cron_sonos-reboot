@@ -11,6 +11,7 @@ Have fun & good luck!
 ## Sonos 9.3
 
 Sonos removes with firmware 9.3 the reboot url on the "hidden" web interface. Sorry! :disappointed_relieved: 
+
 :exclamation: The script does not work anymore. [Thread @reddit](https://www.reddit.com/r/sonos/comments/a1x0f7/sonos_reboot_url_disabled/) 
 
 ## Download
